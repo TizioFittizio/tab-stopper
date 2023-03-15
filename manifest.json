@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "Tab Stopper",
+    "description": "Don't waste my memory please",
+    "author": "Luca Campana",
+    "version": "0.1",
+    "action": {
+      "default_popup": "index.html",
+      "default_icon": "icon.png"
+    },
+    "permissions": ["activeTab", "scripting"]
+  }
